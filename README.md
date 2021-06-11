@@ -1,3 +1,3 @@
 # GitFlow-Demo
 
-version 2
+version 3
